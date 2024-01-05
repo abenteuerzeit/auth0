@@ -1,7 +1,8 @@
 repo_name: abenteuerzeit/auth0
 report_id: 90972c83f26874bf1e2a34a096d76196
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T10:23:10+00:00'
+timestamp: '2024-01-05T08:49:15+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/abenteuerzeit/auth0
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/abenteuerzeit/auth0
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -36,7 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -48,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -62,7 +66,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -75,6 +79,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/Dockerfile
   detection_source: Dockerfile
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -88,7 +93,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -102,7 +107,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -115,6 +120,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8935/0Xm63ShM_400x400__1_.jpg
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -128,7 +134,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -141,6 +147,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/auth0
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -150,6 +157,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/auth0
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -159,6 +167,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -170,6 +179,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -183,7 +193,7 @@ tools:
   category: Monitoring
   sub_category: node.js Application Monitoring
   image_url: https://img.stackshare.io/service/5577/preview.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -195,6 +205,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -206,6 +217,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/abenteuerzeit/auth0
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -216,6 +228,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/abenteuerzeit/auth0
   detection_source: Repo Metadata
 - name: "@babel/core"
   description: Babel compiler core
@@ -227,7 +240,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -241,7 +254,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16556/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -255,7 +268,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -269,7 +282,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -283,7 +296,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16936/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -297,7 +310,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -312,7 +325,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -326,7 +339,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -340,7 +353,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -354,7 +367,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17884/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -368,7 +381,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -382,7 +395,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -396,7 +409,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17142/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -410,7 +423,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -424,7 +437,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -438,7 +451,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -459,7 +472,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -473,7 +486,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
@@ -487,7 +500,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/abenteuerzeit/auth0/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-01-28 00:44:58.000000000 Z
